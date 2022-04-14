@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asya Ahmed</h1>
 <h3 align="center">A passionate Data scientist and a very self-motivated person to learn more, looking for new challenges every day and seeking guidance and opportunity to apply my knowledge to a dynamic growth-oriented role.</h3>
 
+![femalecodertocat](https://user-images.githubusercontent.com/91381315/163433170-32d332c3-a676-47c7-869c-48a7bbcae692.png)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Asyaahmedd?tab=repositories](https://github.com/Asyaahmedd?tab=repositories)
 
 - 📫 How to reach me **asyaahmed143@gmail.com**
