@@ -3,7 +3,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91381315/163433170-32d332c3-a676-47c7-869c-48a7bbcae692.png" width="300" height="300" >
 </p>
-- 👨‍💻 All of my projects are available at [https://github.com/Asyaahmedd?tab=repositories](https://github.com/Asyaahmedd?tab=repositories)
+
+- 👨‍💻 All of my projects are available at https://github.com/Asyaahmedd?tab=repositories
 
 - 📫 How to reach me **asyaahmed143@gmail.com**
 
