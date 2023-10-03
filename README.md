@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asya Ahmed</h1>
-<h3 align="center">A Data scientist who is passionate about learning more, constantly seeking new challenges, and aspires to apply my knowledge in a dynamic growth-oriented role.</h3>
+<h1 align="center" style="color: black;">Hi 👋, I'm Asya Ahmed</h1>
+<h3 align="center"style="color: black;">A Data scientist who is passionate about learning more, constantly seeking new challenges, and aspires to apply my knowledge in a dynamic growth-oriented role.</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91381315/163433170-32d332c3-a676-47c7-869c-48a7bbcae692.png" width="300" height="300" >
 </p>
